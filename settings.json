@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "wardensmp12.aternos.me",
-    "port": 12856,
+    "ip": "paras_bhosadi.aternos.me",
+    "port": 62521,
     "version": "1.20.1",
     "try-creative": false
   },
