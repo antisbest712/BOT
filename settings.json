@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Ananta134.aternos.me",
-    "port": 17750,
+    "ip": "wardensmp12.aternos.me",
+    "port": 12856,
     "version": "1.20.1",
     "try-creative": false
   },
